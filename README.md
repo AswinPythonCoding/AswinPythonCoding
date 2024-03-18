@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aswin
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Programmers
+- 💞️ I’m looking to collaborate With Python Programmers
 - 📫 How to reach me Contact E-Mail:pythoncodingaswin@gmail.com - Ph:+91 99945 34548
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
